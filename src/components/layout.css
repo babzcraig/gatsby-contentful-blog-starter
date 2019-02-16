@@ -636,6 +636,14 @@ header div h1 {
   font-weight: 600;
 }
 
+.home {
+  text-align: center;
+}
+
+.home img {
+  margin: auto;
+}
+
 .blogpost {
   font-size: 18px;
   width: 35em;
