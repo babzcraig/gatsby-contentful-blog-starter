@@ -1,0 +1,30 @@
+.blogpost {
+  font-size: 18px;
+  width: 35em;
+  padding-bottom: 120px;
+  font-family: "Open Sans";
+}
+
+h1 {
+  font-weight: 400;
+  margin-top: 48px;
+}
+
+img {
+  margin-bottom: 8px;
+}
+
+.tags {
+  margin-bottom: 24px;
+}
+
+.tags span.tag {
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.blogpost p.body-text {
+  line-height: 1.8;
+  color: #929191;
+  font-weight: 300;
+}
